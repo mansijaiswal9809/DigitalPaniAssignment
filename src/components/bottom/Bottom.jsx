@@ -13,7 +13,6 @@ const Bottom = () => {
       <div className='inner_container_bottom'>
         <Wind/>
         <Visibility/>
-        <Humidity/>
       </div>
     </div>
   )
