@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project is a weather application that provides real-time weather information for the location you search for. It displays various weather details such as temperature, wind speed, visibility, humidity, etc., using cards with straight and circular bars made with pure CSS.
+This project is a weather application offering up-to-date weather data for user-specified locations. It presents a range of weather metrics including temperature, wind speed, visibility, humidity, and more. These details are showcased using CSS-designed cards featuring both straight and circular bars.
+
+![Weather App](public/screenshot.png)
 
 ## Getting Started
 
