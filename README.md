@@ -26,7 +26,7 @@ Make sure you have the following software installed on your machine:
 2. Navigate to the project directory:
    
    ```bash
-   cd weather
+   cd DigitalPaniAssignment
    ```
 
 3. Install dependencies:
